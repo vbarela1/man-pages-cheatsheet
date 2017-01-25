@@ -6,7 +6,7 @@
 #if user chooses exit
 #- close program 
 
-@cmd_arr = ['cp', 'mv', 'cd', 'mkdir']
+@cmd_arr = ['cp', 'mv', 'cd', 'mkdir', 'touch']
 
 def main_menu
     puts '1: Command Line'
